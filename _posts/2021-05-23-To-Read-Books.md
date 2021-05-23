@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Books to read"
-author: Ravi Teja
+author: RaviTeja
 categories: [ Learning ]
 image: assets/images/Books.jpg
 ---
